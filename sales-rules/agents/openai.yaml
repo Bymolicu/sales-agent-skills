@@ -1,0 +1,3 @@
+interface:
+  display_name: "Sales Rules"
+  short_description: "Enforce Avito sales policies before replies and CRM actions"
