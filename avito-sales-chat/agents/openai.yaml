@@ -1,0 +1,3 @@
+interface:
+  display_name: "Avito Sales Chat"
+  short_description: "Write safe, concise Avito sales replies for n8n"
