@@ -1,0 +1,3 @@
+interface:
+  display_name: "Lead Qualification"
+  short_description: "Qualify Avito sales leads for n8n and amoCRM"
