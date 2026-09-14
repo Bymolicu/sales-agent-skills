@@ -1,0 +1,3 @@
+interface:
+  display_name: "Product Resolver"
+  short_description: "Normalize product models for n8n and amoCRM"
