@@ -1,0 +1,3 @@
+interface:
+  display_name: "Manager Handoff"
+  short_description: "Route qualified Avito leads from AI to a human in n8n/amoCRM"
